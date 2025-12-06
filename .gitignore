@@ -213,3 +213,6 @@ ckpts/
 
 # Ignore generated images
 /*.png
+
+# vscode settings
+.vscode/
